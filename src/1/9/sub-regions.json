@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Australia and New Zealand",
+		"numericId": 53,
+		"parent": 9
+	},
+	{
+		"name": "Melanesia",
+		"numericId": 54,
+		"parent": 9
+	},
+	{
+		"name": "Micronesia",
+		"numericId": 57,
+		"parent": 9
+	},
+	{
+		"name": "Polynesia",
+		"numericId": 61,
+		"parent": 9
+	}
+]

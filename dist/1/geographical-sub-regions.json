@@ -1,0 +1,107 @@
+[
+	{
+		"name": "Eastern Africa",
+		"numericID": 14,
+		"parent": 2
+	},
+	{
+		"name": "Middle Africa",
+		"numericID": 17,
+		"parent": 2
+	},
+	{
+		"name": "Northern Africa",
+		"numericID": 15,
+		"parent": 2
+	},
+	{
+		"name": "Southern Africa",
+		"numericID": 18,
+		"parent": 2
+	},
+	{
+		"name": "Western Africa",
+		"numericID": 11,
+		"parent": 2
+	},
+	{
+		"name": "Caribbean",
+		"numericID": 29,
+		"parent": 19
+	},
+	{
+		"name": "Central America",
+		"numericID": 13,
+		"parent": 19
+	},
+	{
+		"name": "South America",
+		"numericID": 5,
+		"parent": 19
+	},
+	{
+		"name": "Central Asia",
+		"numericID": 143,
+		"parent": 142
+	},
+	{
+		"name": "Eastern Asia",
+		"numericID": 30,
+		"parent": 142
+	},
+	{
+		"name": "Southern Asia",
+		"numericID": 34,
+		"parent": 142
+	},
+	{
+		"name": "South-Eastern Asia",
+		"numericID": 35,
+		"parent": 142
+	},
+	{
+		"name": "Western Asia",
+		"numericID": 145,
+		"parent": 142
+	},
+	{
+		"name": "Eastern Europe",
+		"numericID": 151,
+		"parent": 150
+	},
+	{
+		"name": "Northern Europe",
+		"numericID": 154,
+		"parent": 150
+	},
+	{
+		"name": "Southern Europe",
+		"numericID": 39,
+		"parent": 150
+	},
+	{
+		"name": "Western Europe",
+		"numericID": 155,
+		"parent": 150
+	},
+	{
+		"name": "Australia and New Zealand",
+		"numericID": 53,
+		"parent": 9
+	},
+	{
+		"name": "Melanesia",
+		"numericID": 54,
+		"parent": 9
+	},
+	{
+		"name": "Micronesia",
+		"numericID": 57,
+		"parent": 9
+	},
+	{
+		"name": "Polynesia",
+		"numericID": 61,
+		"parent": 9
+	}
+]

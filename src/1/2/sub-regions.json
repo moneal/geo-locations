@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Eastern Africa",
+		"numericId": 14,
+		"parent": 2
+	},
+	{
+		"name": "Middle Africa",
+		"numericId": 17,
+		"parent": 2
+	},
+	{
+		"name": "Northern Africa",
+		"numericId": 15,
+		"parent": 2
+	},
+	{
+		"name": "Southern Africa",
+		"numericId": 18,
+		"parent": 2
+	},
+	{
+		"name": "Western Africa",
+		"numericId": 11,
+		"parent": 2
+	}
+]

@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Eastern Europe",
+		"numericId": 151,
+		"parent": 150
+	},
+	{
+		"name": "Northern Europe",
+		"numericId": 154,
+		"parent": 150
+	},
+	{
+		"name": "Southern Europe",
+		"numericId": 39,
+		"parent": 150
+	},
+	{
+		"name": "Western Europe",
+		"numericId": 155,
+		"parent": 150
+	}
+]

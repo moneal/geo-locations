@@ -1,0 +1,27 @@
+[
+	{
+		"name": "Central Asia",
+		"numericId": 143,
+		"parent": 142
+	},
+	{
+		"name": "Eastern Asia",
+		"numericId": 30,
+		"parent": 142
+	},
+	{
+		"name": "Southern Asia",
+		"numericId": 34,
+		"parent": 142
+	},
+	{
+		"name": "South-Eastern Asia",
+		"numericId": 35,
+		"parent": 142
+	},
+	{
+		"name": "Western Asia",
+		"numericId": 145,
+		"parent": 142
+	}
+]

@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Africa",
+		"numericId": 2
+	},
+	{
+		"name": "Americas",
+		"numericId": 19
+	},
+	{
+		"name": "Europe",
+		"numericId": 150
+	},
+	{
+		"name": "Asia",
+		"numericId": 142
+	},
+	{
+		"name": "Oceania",
+		"numericId": 9
+	}
+]
