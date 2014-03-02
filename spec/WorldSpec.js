@@ -35,6 +35,8 @@ function countriesTest( fileBase ) {
 
 					it('has a name', function() {
 						expect( item.name ).toBeDefined();
+						expect( item.name ).not.toBe( null );
+						expect( item.name ).not.toBe( '' );
 					});
 
 					it('has char2code', function() {
@@ -63,13 +65,13 @@ function countriesTest( fileBase ) {
 					});
 
 					xit('has countries file', function() {
-						
+
 						expect( fs.existsSync( fileBase + '/' + item.numericId + '/' + 'countries.json' ) ).toBe(true);
 						if ( ! fs.existsSync( fileBase + '/' + item.numericId + '/' + 'countries.json' ) ) {
 							fs.writeFile( fileBase + '/' + item.numericId + '/' + 'countries.json', '[\n\t{\n\t\t"char2code":""\n\t}\n]');
 						}
 					});
-	
+
 					//countriesTest( fileBase + '/' + item.numericId );
 				});
 
@@ -133,13 +135,13 @@ function subRegionTest( fileBase ) {
 					});
 
 					it('has countries file', function() {
-						
+
 						expect( fs.existsSync( fileBase + '/' + item.numericId + '/' + 'countries.json' ) ).toBe(true);
 						if ( ! fs.existsSync( fileBase + '/' + item.numericId + '/' + 'countries.json' ) ) {
 							fs.writeFile( fileBase + '/' + item.numericId + '/' + 'countries.json', '[\n\t{\n\t\t"char2code":""\n\t}\n]');
 						}
 					});
-	
+
 					countriesTest( fileBase + '/' + item.numericId );
 				});
 
@@ -202,7 +204,7 @@ function regionTest( fileBase ) {
 					it('has sub regions file', function() {
 						expect( fs.existsSync( subRegionBase + '/' + 'sub-regions.json' ) ).toBe(true);
 					});
-	
+
 					subRegionTest( fileBase + '/' + item.numericId );
 				});
 

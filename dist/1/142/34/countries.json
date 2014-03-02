@@ -1,5 +1,38 @@
 [
 	{
-		"char2code":""
+		"name":"Afghanistan",
+		"char2code":"AF"
+	},
+	{
+		"name":"Bangladesh",
+		"char2code":"BD"
+	},
+	{
+		"name":"Bhutan",
+		"char2code":"BT"
+	},
+	{
+		"name":"India",
+		"char2code":"IN"
+	},
+	{
+		"name":"Iran, Islamic Republic of",
+		"char2code":"IR"
+	},
+	{
+		"name":"Sri Lanka",
+		"char2code":"LK"
+	},
+	{
+		"name":"Maldives",
+		"char2code":"MV"
+	},
+	{
+		"name":"Nepal",
+		"char2code":"NP"
+	},
+	{
+		"name":"Pakistan",
+		"char2code":"PK"
 	}
 ]

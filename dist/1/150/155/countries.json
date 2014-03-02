@@ -1,5 +1,46 @@
 [
 	{
-		"char2code":""
+		"name":"Austria",
+		"char2code":"AT"
+	},
+	{
+		"name":"Belgium",
+		"char2code":"BE"
+	},
+	{
+		"name":"Switzerland",
+		"char2code":"CH"
+	},
+	{
+		"name":"Germany",
+		"char2code":"DE"
+	},
+	{
+		"name":"German Democratic Republic",
+		"char2code":"DD"
+	},
+	{
+		"name":"France",
+		"char2code":"FR"
+	},
+	{
+		"name":"France, Metropolitan",
+		"char2code":"FX"
+	},
+	{
+		"name":"Liechtenstein",
+		"char2code":"LI"
+	},
+	{
+		"name":"Luxembourg",
+		"char2code":"LU"
+	},
+	{
+		"name":"Monaco",
+		"char2code":"MC"
+	},
+	{
+		"name":"Netherlands",
+		"char2code":"NL"
 	}
 ]

@@ -1,5 +1,46 @@
 [
 	{
-		"char2code":""
+		"name":"Bulgaria",
+		"char2code":"BG"
+	},
+	{
+		"name":"Belarus",
+		"char2code":"BY"
+	},
+	{
+		"name":"Czech Republic",
+		"char2code":"CZ"
+	},
+	{
+		"name":"Hungary",
+		"char2code":"HU"
+	},
+	{
+		"name":"Moldova, Republic of",
+		"char2code":"MD"
+	},
+	{
+		"name":"Poland",
+		"char2code":"PL"
+	},
+	{
+		"name":"Romania",
+		"char2code":"RO"
+	},
+	{
+		"name":"Russian Federation",
+		"char2code":"RU"
+	},
+	{
+		"name":"USSR",
+		"char2code":"SU"
+	},
+	{
+		"name":"Slovakia",
+		"char2code":"SK"
+	},
+	{
+		"name":"Ukraine",
+		"char2code":"UA"
 	}
 ]

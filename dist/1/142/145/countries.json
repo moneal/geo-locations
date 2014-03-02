@@ -1,5 +1,82 @@
 [
 	{
-		"char2code":""
+		"name":"United Arab Emirates",
+		"char2code":"AE"
+	},
+	{
+		"name":"Armenia",
+		"char2code":"AM"
+	},
+	{
+		"name":"Azerbaijan",
+		"char2code":"AZ"
+	},
+	{
+		"name":"Bahrain",
+		"char2code":"BH"
+	},
+	{
+		"name":"Cyprus",
+		"char2code":"CY"
+	},
+	{
+		"name":"Georgia",
+		"char2code":"GE"
+	},
+	{
+		"name":"Israel",
+		"char2code":"IL"
+	},
+	{
+		"name":"Iraq",
+		"char2code":"IQ"
+	},
+	{
+		"name":"Jordan",
+		"char2code":"JO"
+	},
+	{
+		"name":"Kuwait",
+		"char2code":"KW"
+	},
+	{
+		"name":"Lebanon",
+		"char2code":"LB"
+	},
+	{
+		"name":"Oman",
+		"char2code":"OM"
+	},
+	{
+		"name":"Palestine, State of",
+		"char2code":"PS"
+	},
+	{
+		"name":"Qatar",
+		"char2code":"QA"
+	},
+	{
+		"name":"Saudi Arabia",
+		"char2code":"SA"
+	},
+	{
+		"name":"Neutral Zone",
+		"char2code":"NT"
+	},
+	{
+		"name":"Syrian Arab Republic",
+		"char2code":"SY"
+	},
+	{
+		"name":"Turkey",
+		"char2code":"TR"
+	},
+	{
+		"name":"Yemen",
+		"char2code":"YE"
+	},
+	{
+		"name":"Chad",
+		"char2code":"TD"
 	}
 ]

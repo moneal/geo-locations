@@ -1,5 +1,74 @@
 [
 	{
-		"char2code":""
+		"name":"Andorra",
+		"char2code":"AD"
+	},
+	{
+		"name":"Albania",
+		"char2code":"AL"
+	},
+	{
+		"name":"Bosnia and Herzegovina",
+		"char2code":"BA"
+	},
+	{
+		"name":"Spain",
+		"char2code":"ES"
+	},
+	{
+		"name":"Gibraltar",
+		"char2code":"GI"
+	},
+	{
+		"name":"Greece",
+		"char2code":"GR"
+	},
+	{
+		"name":"Croatia",
+		"char2code":"HR"
+	},
+	{
+		"name":"Italy",
+		"char2code":"IT"
+	},
+	{
+		"name":"Montenegro",
+		"char2code":"ME"
+	},
+	{
+		"name":"Macedonia, the former Yugoslav Republic of",
+		"char2code":"MK"
+	},
+	{
+		"name":"Malaysia",
+		"char2code":"MY"
+	},
+	{
+		"name":"Serbia and Montenegro",
+		"char2code":"CS"
+	},
+	{
+		"name":"Serbia",
+		"char2code":"RS"
+	},
+	{
+		"name":"Portugal",
+		"char2code":"PT"
+	},
+	{
+		"name":"Slovenia",
+		"char2code":"SI"
+	},
+	{
+		"name":"San Marino",
+		"char2code":"SM"
+	},
+	{
+		"name":"Holy See (Vatican City State)",
+		"char2code":"VA"
+	},
+	{
+		"name":"Yugoslavia",
+		"char2code":"YU"
 	}
 ]

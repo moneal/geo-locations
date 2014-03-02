@@ -1,5 +1,66 @@
 [
 	{
-		"char2code":""
+		"name":"Guernsey",
+		"char2code":"GG"
+	},
+	{
+		"name":"Jersey",
+		"char2code":"JE"
+	},
+	{
+		"name":"Åland Islands",
+		"char2code":"AX"
+	},
+	{
+		"name":"Denmark",
+		"char2code":"DK"
+	},
+	{
+		"name":"Estonia",
+		"char2code":"EE"
+	},
+	{
+		"name":"Finland",
+		"char2code":"FI"
+	},
+	{
+		"name":"Faroe Islands",
+		"char2code":"FO"
+	},
+	{
+		"name":"United Kingdom",
+		"char2code":"GB"
+	},
+	{
+		"name":"Ireland",
+		"char2code":"IE"
+	},
+	{
+		"name":"Isle of Man",
+		"char2code":"IM"
+	},
+	{
+		"name":"Iceland",
+		"char2code":"IS"
+	},
+	{
+		"name":"Lithuania",
+		"char2code":"LT"
+	},
+	{
+		"name":"Latvia",
+		"char2code":"LV"
+	},
+	{
+		"name":"Norway",
+		"char2code":"NO"
+	},
+	{
+		"name":"Sweden",
+		"char2code":"SE"
+	},
+	{
+		"name":"Svalbard and Jan Mayen",
+		"char2code":"SJ"
 	}
 ]

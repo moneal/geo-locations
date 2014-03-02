@@ -1,5 +1,54 @@
 [
 	{
-		"char2code":""
+		"name":"Brunei Darussalam",
+		"char2code":"BN"
+	},
+	{
+		"name":"Indonesia",
+		"char2code":"ID"
+	},
+	{
+		"name":"Cambodia",
+		"char2code":"KH"
+	},
+	{
+		"name":"Lao People's Democratic Republic",
+		"char2code":"LA"
+	},
+	{
+		"name":"Myanmar",
+		"char2code":"MM"
+	},
+	{
+		"name":"Burma",
+		"char2code":"BU"
+	},
+	{
+		"name":"Malaysia",
+		"char2code":"MY"
+	},
+	{
+		"name":"Philippines",
+		"char2code":"PH"
+	},
+	{
+		"name":"Singapore",
+		"char2code":"SG"
+	},
+	{
+		"name":"Thailand",
+		"char2code":"TH"
+	},
+	{
+		"name":"Timor-Leste",
+		"char2code":"TL"
+	},
+	{
+		"name":"East Timor",
+		"char2code":"TP"
+	},
+	{
+		"name":"Viet Nam",
+		"char2code":"VN"
 	}
 ]
