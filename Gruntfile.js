@@ -42,13 +42,16 @@ module.exports = function(grunt) {
             },
             spec: {
                 src: ['spec/**/*.js']
+            },
+            bin: {
+                src: ['bin/**/*.js']
             }
         },
         nodeunit: {
             files: ['test/**/*_test.js']
         },
         jasmine_node: {
-			//verbose			: false,
+			verbose			: false,
 			options: {
 				specNameMatcher : 'Spec', // load only specs containing specNameMatcher
 				projectRoot		: './spec',
@@ -104,7 +107,12 @@ module.exports = function(grunt) {
                 files: '<%= jsonlint.src.src %>',
                 tasks: ['jsonlint:src', 'copy:json']
 			}
-        }
+        },
+		execute: {
+			build: {
+				src: ['bin/build_all.js']
+			}
+		}
     });
 
     // These plugins provide necessary tasks.
@@ -114,11 +122,12 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-jasmine-node');
 	grunt.loadNpmTasks('grunt-jsonlint');
 	grunt.loadNpmTasks('grunt-contrib-copy');
+	grunt.loadNpmTasks('grunt-execute');
 
     // Default task.
     grunt.registerTask('default', ['jshint', 'nodeunit']);
-    grunt.registerTask('test', ['jsonlint', 'jshint', 'jasmine_node']);
+    grunt.registerTask('test', ['jsonlint:all', 'jshint', 'jasmine_node']);
 
-	grunt.registerTask('build', ['clean:dist', 'copy:json']);
+	grunt.registerTask('build', ['clean:dist', 'copy:json', 'execute:build']);
 
 };

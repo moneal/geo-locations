@@ -1,0 +1,1395 @@
+[
+    {
+        "name": "Earth",
+        "numericId": 1,
+        "regions": [
+            {
+                "name": "Africa",
+                "numericId": 2,
+                "subRegions": [
+                    {
+                        "name": "Eastern Africa",
+                        "numericId": 14,
+                        "parent": 2,
+                        "countries": [
+                            {
+                                "name": "Burundi",
+                                "char2code": "BI",
+                                "parent": 14
+                            },
+                            {
+                                "name": "Djibouti",
+                                "char2code": "DJ",
+                                "parent": 14
+                            },
+                            {
+                                "name": "Eritrea",
+                                "char2code": "ER",
+                                "parent": 14
+                            },
+                            {
+                                "name": "Ethiopia",
+                                "char2code": "ET",
+                                "parent": 14
+                            },
+                            {
+                                "name": "Kenya",
+                                "char2code": "KE",
+                                "parent": 14
+                            },
+                            {
+                                "name": "Comoros",
+                                "char2code": "KM",
+                                "parent": 14
+                            },
+                            {
+                                "name": "Madagascar",
+                                "char2code": "MG",
+                                "parent": 14
+                            },
+                            {
+                                "name": "Mauritius",
+                                "char2code": "MU",
+                                "parent": 14
+                            },
+                            {
+                                "name": "Malawi",
+                                "char2code": "MW",
+                                "parent": 14
+                            },
+                            {
+                                "name": "Mozambique",
+                                "char2code": "MZ",
+                                "parent": 14
+                            },
+                            {
+                                "name": "Réunion",
+                                "char2code": "RE",
+                                "parent": 14
+                            },
+                            {
+                                "name": "Rwanda",
+                                "char2code": "RW",
+                                "parent": 14
+                            },
+                            {
+                                "name": "Seychelles",
+                                "char2code": "SC",
+                                "parent": 14
+                            },
+                            {
+                                "name": "Somalia",
+                                "char2code": "SO",
+                                "parent": 14
+                            },
+                            {
+                                "name": "Taiwan, Province of China",
+                                "char2code": "TZ",
+                                "parent": 14
+                            },
+                            {
+                                "name": "Uganda",
+                                "char2code": "UG",
+                                "parent": 14
+                            },
+                            {
+                                "name": "Mayotte",
+                                "char2code": "YT",
+                                "parent": 14
+                            },
+                            {
+                                "name": "Zambia",
+                                "char2code": "ZM",
+                                "parent": 14
+                            },
+                            {
+                                "name": "Zimbabwe",
+                                "char2code": "ZW",
+                                "parent": 14
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Middle Africa",
+                        "numericId": 17,
+                        "parent": 2,
+                        "countries": [
+                            {
+                                "name": "Angola",
+                                "char2code": "AO",
+                                "parent": 17
+                            },
+                            {
+                                "name": "Congo, the Democratic Republic of the",
+                                "char2code": "CD",
+                                "parent": 17
+                            },
+                            {
+                                "name": "Zaire",
+                                "char2code": "ZR",
+                                "parent": 17
+                            },
+                            {
+                                "name": "Central African Republic",
+                                "char2code": "CF",
+                                "parent": 17
+                            },
+                            {
+                                "name": "Congo",
+                                "char2code": "CG",
+                                "parent": 17
+                            },
+                            {
+                                "name": "Cameroon",
+                                "char2code": "CM",
+                                "parent": 17
+                            },
+                            {
+                                "name": "Gabon",
+                                "char2code": "GA",
+                                "parent": 17
+                            },
+                            {
+                                "name": "Equatorial Guinea",
+                                "char2code": "GQ",
+                                "parent": 17
+                            },
+                            {
+                                "name": "Sao Tome and Principe",
+                                "char2code": "ST",
+                                "parent": 17
+                            },
+                            {
+                                "name": "Chad",
+                                "char2code": "TD",
+                                "parent": 17
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Northern Africa",
+                        "numericId": 15,
+                        "parent": 2,
+                        "countries": [
+                            {
+                                "name": "Algeria",
+                                "char2code": "DZ",
+                                "parent": 15
+                            },
+                            {
+                                "name": "Egypt",
+                                "char2code": "EG",
+                                "parent": 15
+                            },
+                            {
+                                "name": "Western Sahara",
+                                "char2code": "EH",
+                                "parent": 15
+                            },
+                            {
+                                "name": "Libya",
+                                "char2code": "LY",
+                                "parent": 15
+                            },
+                            {
+                                "name": "Morocco",
+                                "char2code": "MA",
+                                "parent": 15
+                            },
+                            {
+                                "name": "Sudan",
+                                "char2code": "SD",
+                                "parent": 15
+                            },
+                            {
+                                "name": "Tunisia",
+                                "char2code": "TN",
+                                "parent": 15
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Southern Africa",
+                        "numericId": 18,
+                        "parent": 2,
+                        "countries": [
+                            {
+                                "name": "Botswana",
+                                "char2code": "BW",
+                                "parent": 18
+                            },
+                            {
+                                "name": "Lesotho",
+                                "char2code": "LS",
+                                "parent": 18
+                            },
+                            {
+                                "name": "Namibia",
+                                "char2code": "NA",
+                                "parent": 18
+                            },
+                            {
+                                "name": "Swaziland",
+                                "char2code": "SZ",
+                                "parent": 18
+                            },
+                            {
+                                "name": "South Africa",
+                                "char2code": "ZA",
+                                "parent": 18
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Western Africa",
+                        "numericId": 11,
+                        "parent": 2,
+                        "countries": [
+                            {
+                                "name": "Burkina Faso",
+                                "char2code": "BF",
+                                "parent": 11
+                            },
+                            {
+                                "name": "Benin",
+                                "char2code": "BJ",
+                                "parent": 11
+                            },
+                            {
+                                "name": "Côte d'Ivoire",
+                                "char2code": "CI",
+                                "parent": 11
+                            },
+                            {
+                                "name": "Cape Verde",
+                                "char2code": "CV",
+                                "parent": 11
+                            },
+                            {
+                                "name": "Ghana",
+                                "char2code": "GH",
+                                "parent": 11
+                            },
+                            {
+                                "name": "Gambia",
+                                "char2code": "GM",
+                                "parent": 11
+                            },
+                            {
+                                "name": "Guinea",
+                                "char2code": "GN",
+                                "parent": 11
+                            },
+                            {
+                                "name": "Guinea-Bissau",
+                                "char2code": "GW",
+                                "parent": 11
+                            },
+                            {
+                                "name": "Liberia",
+                                "char2code": "LR",
+                                "parent": 11
+                            },
+                            {
+                                "name": "Mali",
+                                "char2code": "ML",
+                                "parent": 11
+                            },
+                            {
+                                "name": "Mauritania",
+                                "char2code": "MR",
+                                "parent": 11
+                            },
+                            {
+                                "name": "Niger",
+                                "char2code": "NE",
+                                "parent": 11
+                            },
+                            {
+                                "name": "Nigeria",
+                                "char2code": "NG",
+                                "parent": 11
+                            },
+                            {
+                                "name": "Saint Helena, Ascension and Tristan da Cunha",
+                                "char2code": "SH",
+                                "parent": 11
+                            },
+                            {
+                                "name": "Sierra Leone",
+                                "char2code": "SL",
+                                "parent": 11
+                            },
+                            {
+                                "name": "Senegal",
+                                "char2code": "SN",
+                                "parent": 11
+                            },
+                            {
+                                "name": "Togo",
+                                "char2code": "TG",
+                                "parent": 11
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Americas",
+                "numericId": 19,
+                "subRegions": [
+                    {
+                        "name": "Caribbean",
+                        "numericId": 29,
+                        "parent": 19,
+                        "countries": [
+                            {
+                                "name": "Antigua and Barbuda",
+                                "char2code": "AG",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Anguilla",
+                                "char2code": "AI",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Netherlands Antilles",
+                                "char2code": "AN",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Aruba",
+                                "char2code": "AW",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Barbados",
+                                "char2code": "BB",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Saint Barthélemy",
+                                "char2code": "BL",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Bahamas",
+                                "char2code": "BS",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Cuba",
+                                "char2code": "CU",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Dominica",
+                                "char2code": "DM",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Dominican Republic",
+                                "char2code": "DO",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Grenada",
+                                "char2code": "GD",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Guadeloupe",
+                                "char2code": "GP",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Haiti",
+                                "char2code": "HT",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Jamaica",
+                                "char2code": "JM",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Saint Kitts and Nevis",
+                                "char2code": "KN",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Cayman Islands",
+                                "char2code": "KY",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Saint Lucia",
+                                "char2code": "LC",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Saint Martin (French part)",
+                                "char2code": "MF",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Martinique",
+                                "char2code": "MQ",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Montserrat",
+                                "char2code": "MS",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Puerto Rico",
+                                "char2code": "PR",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Turks and Caicos Islands",
+                                "char2code": "TC",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Trinidad and Tobago",
+                                "char2code": "TT",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Saint Vincent and the Grenadines",
+                                "char2code": "VC",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Virgin Islands, British",
+                                "char2code": "VG",
+                                "parent": 29
+                            },
+                            {
+                                "name": "Virgin Islands, U.S.",
+                                "char2code": "VI",
+                                "parent": 29
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Central America",
+                        "numericId": 13,
+                        "parent": 19,
+                        "countries": [
+                            {
+                                "name": "Belize",
+                                "char2code": "BZ",
+                                "parent": 13
+                            },
+                            {
+                                "name": "Costa Rica",
+                                "char2code": "CR",
+                                "parent": 13
+                            },
+                            {
+                                "name": "Guatemala",
+                                "char2code": "GT",
+                                "parent": 13
+                            },
+                            {
+                                "name": "Honduras",
+                                "char2code": "HN",
+                                "parent": 13
+                            },
+                            {
+                                "name": "Mexico",
+                                "char2code": "MX",
+                                "parent": 13
+                            },
+                            {
+                                "name": "Nicaragua",
+                                "char2code": "NI",
+                                "parent": 13
+                            },
+                            {
+                                "name": "Panama",
+                                "char2code": "PA",
+                                "parent": 13
+                            },
+                            {
+                                "name": "El Salvador",
+                                "char2code": "SV",
+                                "parent": 13
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South America",
+                        "numericId": 5,
+                        "parent": 19,
+                        "countries": [
+                            {
+                                "name": "Argentina",
+                                "char2code": "AR",
+                                "parent": 5
+                            },
+                            {
+                                "name": "Bolivia, Plurinational State of",
+                                "char2code": "BO",
+                                "parent": 5
+                            },
+                            {
+                                "name": "Brazil",
+                                "char2code": "BR",
+                                "parent": 5
+                            },
+                            {
+                                "name": "Chile",
+                                "char2code": "CL",
+                                "parent": 5
+                            },
+                            {
+                                "name": "Colombia",
+                                "char2code": "CO",
+                                "parent": 5
+                            },
+                            {
+                                "name": "Ecuador",
+                                "char2code": "EC",
+                                "parent": 5
+                            },
+                            {
+                                "name": "Falkland Islands (Malvinas)",
+                                "char2code": "FK",
+                                "parent": 5
+                            },
+                            {
+                                "name": "French Guiana",
+                                "char2code": "GF",
+                                "parent": 5
+                            },
+                            {
+                                "name": "Guyana",
+                                "char2code": "GY",
+                                "parent": 5
+                            },
+                            {
+                                "name": "Peru",
+                                "char2code": "PE",
+                                "parent": 5
+                            },
+                            {
+                                "name": "Paraguay",
+                                "char2code": "PY",
+                                "parent": 5
+                            },
+                            {
+                                "name": "Suriname",
+                                "char2code": "SR",
+                                "parent": 5
+                            },
+                            {
+                                "name": "Uruguay",
+                                "char2code": "UY",
+                                "parent": 5
+                            },
+                            {
+                                "name": "Venezuela, Bolivarian Republic of",
+                                "char2code": "VE",
+                                "parent": 5
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Europe",
+                "numericId": 150,
+                "subRegions": [
+                    {
+                        "name": "Eastern Europe",
+                        "numericId": 151,
+                        "parent": 150,
+                        "countries": [
+                            {
+                                "name": "Bulgaria",
+                                "char2code": "BG",
+                                "parent": 151
+                            },
+                            {
+                                "name": "Belarus",
+                                "char2code": "BY",
+                                "parent": 151
+                            },
+                            {
+                                "name": "Czech Republic",
+                                "char2code": "CZ",
+                                "parent": 151
+                            },
+                            {
+                                "name": "Hungary",
+                                "char2code": "HU",
+                                "parent": 151
+                            },
+                            {
+                                "name": "Moldova, Republic of",
+                                "char2code": "MD",
+                                "parent": 151
+                            },
+                            {
+                                "name": "Poland",
+                                "char2code": "PL",
+                                "parent": 151
+                            },
+                            {
+                                "name": "Romania",
+                                "char2code": "RO",
+                                "parent": 151
+                            },
+                            {
+                                "name": "Russian Federation",
+                                "char2code": "RU",
+                                "parent": 151
+                            },
+                            {
+                                "name": "USSR",
+                                "char2code": "SU",
+                                "parent": 151
+                            },
+                            {
+                                "name": "Slovakia",
+                                "char2code": "SK",
+                                "parent": 151
+                            },
+                            {
+                                "name": "Ukraine",
+                                "char2code": "UA",
+                                "parent": 151
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Northern Europe",
+                        "numericId": 154,
+                        "parent": 150,
+                        "countries": [
+                            {
+                                "name": "Guernsey",
+                                "char2code": "GG",
+                                "parent": 154
+                            },
+                            {
+                                "name": "Jersey",
+                                "char2code": "JE",
+                                "parent": 154
+                            },
+                            {
+                                "name": "Åland Islands",
+                                "char2code": "AX",
+                                "parent": 154
+                            },
+                            {
+                                "name": "Denmark",
+                                "char2code": "DK",
+                                "parent": 154
+                            },
+                            {
+                                "name": "Estonia",
+                                "char2code": "EE",
+                                "parent": 154
+                            },
+                            {
+                                "name": "Finland",
+                                "char2code": "FI",
+                                "parent": 154
+                            },
+                            {
+                                "name": "Faroe Islands",
+                                "char2code": "FO",
+                                "parent": 154
+                            },
+                            {
+                                "name": "United Kingdom",
+                                "char2code": "GB",
+                                "parent": 154
+                            },
+                            {
+                                "name": "Ireland",
+                                "char2code": "IE",
+                                "parent": 154
+                            },
+                            {
+                                "name": "Isle of Man",
+                                "char2code": "IM",
+                                "parent": 154
+                            },
+                            {
+                                "name": "Iceland",
+                                "char2code": "IS",
+                                "parent": 154
+                            },
+                            {
+                                "name": "Lithuania",
+                                "char2code": "LT",
+                                "parent": 154
+                            },
+                            {
+                                "name": "Latvia",
+                                "char2code": "LV",
+                                "parent": 154
+                            },
+                            {
+                                "name": "Norway",
+                                "char2code": "NO",
+                                "parent": 154
+                            },
+                            {
+                                "name": "Sweden",
+                                "char2code": "SE",
+                                "parent": 154
+                            },
+                            {
+                                "name": "Svalbard and Jan Mayen",
+                                "char2code": "SJ",
+                                "parent": 154
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Southern Europe",
+                        "numericId": 39,
+                        "parent": 150,
+                        "countries": [
+                            {
+                                "name": "Andorra",
+                                "char2code": "AD",
+                                "parent": 39
+                            },
+                            {
+                                "name": "Albania",
+                                "char2code": "AL",
+                                "parent": 39
+                            },
+                            {
+                                "name": "Bosnia and Herzegovina",
+                                "char2code": "BA",
+                                "parent": 39
+                            },
+                            {
+                                "name": "Spain",
+                                "char2code": "ES",
+                                "parent": 39
+                            },
+                            {
+                                "name": "Gibraltar",
+                                "char2code": "GI",
+                                "parent": 39
+                            },
+                            {
+                                "name": "Greece",
+                                "char2code": "GR",
+                                "parent": 39
+                            },
+                            {
+                                "name": "Croatia",
+                                "char2code": "HR",
+                                "parent": 39
+                            },
+                            {
+                                "name": "Italy",
+                                "char2code": "IT",
+                                "parent": 39
+                            },
+                            {
+                                "name": "Montenegro",
+                                "char2code": "ME",
+                                "parent": 39
+                            },
+                            {
+                                "name": "Macedonia, the former Yugoslav Republic of",
+                                "char2code": "MK",
+                                "parent": 39
+                            },
+                            {
+                                "name": "Malaysia",
+                                "char2code": "MY",
+                                "parent": 39
+                            },
+                            {
+                                "name": "Serbia and Montenegro",
+                                "char2code": "CS",
+                                "parent": 39
+                            },
+                            {
+                                "name": "Serbia",
+                                "char2code": "RS",
+                                "parent": 39
+                            },
+                            {
+                                "name": "Portugal",
+                                "char2code": "PT",
+                                "parent": 39
+                            },
+                            {
+                                "name": "Slovenia",
+                                "char2code": "SI",
+                                "parent": 39
+                            },
+                            {
+                                "name": "San Marino",
+                                "char2code": "SM",
+                                "parent": 39
+                            },
+                            {
+                                "name": "Holy See (Vatican City State)",
+                                "char2code": "VA",
+                                "parent": 39
+                            },
+                            {
+                                "name": "Yugoslavia",
+                                "char2code": "YU",
+                                "parent": 39
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Western Europe",
+                        "numericId": 155,
+                        "parent": 150,
+                        "countries": [
+                            {
+                                "name": "Austria",
+                                "char2code": "AT",
+                                "parent": 155
+                            },
+                            {
+                                "name": "Belgium",
+                                "char2code": "BE",
+                                "parent": 155
+                            },
+                            {
+                                "name": "Switzerland",
+                                "char2code": "CH",
+                                "parent": 155
+                            },
+                            {
+                                "name": "Germany",
+                                "char2code": "DE",
+                                "parent": 155
+                            },
+                            {
+                                "name": "German Democratic Republic",
+                                "char2code": "DD",
+                                "parent": 155
+                            },
+                            {
+                                "name": "France",
+                                "char2code": "FR",
+                                "parent": 155
+                            },
+                            {
+                                "name": "France, Metropolitan",
+                                "char2code": "FX",
+                                "parent": 155
+                            },
+                            {
+                                "name": "Liechtenstein",
+                                "char2code": "LI",
+                                "parent": 155
+                            },
+                            {
+                                "name": "Luxembourg",
+                                "char2code": "LU",
+                                "parent": 155
+                            },
+                            {
+                                "name": "Monaco",
+                                "char2code": "MC",
+                                "parent": 155
+                            },
+                            {
+                                "name": "Netherlands",
+                                "char2code": "NL",
+                                "parent": 155
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Asia",
+                "numericId": 142,
+                "subRegions": [
+                    {
+                        "name": "Central Asia",
+                        "numericId": 143,
+                        "parent": 142,
+                        "countries": [
+                            {
+                                "name": "Turkmenistan",
+                                "char2code": "TM",
+                                "parent": 143
+                            },
+                            {
+                                "name": "Tajikistan",
+                                "char2code": "TJ",
+                                "parent": 143
+                            },
+                            {
+                                "name": "Kyrgyzstan",
+                                "char2code": "KG",
+                                "parent": 143
+                            },
+                            {
+                                "name": "Kazakhstan",
+                                "char2code": "KZ",
+                                "parent": 143
+                            },
+                            {
+                                "name": "Uzbekistan",
+                                "char2code": "UZ",
+                                "parent": 143
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Eastern Asia",
+                        "numericId": 30,
+                        "parent": 142,
+                        "countries": [
+                            {
+                                "name": "China",
+                                "char2code": "CN",
+                                "parent": 30
+                            },
+                            {
+                                "name": "Hong Kong",
+                                "char2code": "HK",
+                                "parent": 30
+                            },
+                            {
+                                "name": "Japan",
+                                "char2code": "JP",
+                                "parent": 30
+                            },
+                            {
+                                "name": "Korea, Democratic People's Republic of",
+                                "char2code": "KP",
+                                "parent": 30
+                            },
+                            {
+                                "name": "Korea, Republic of",
+                                "char2code": "KR",
+                                "parent": 30
+                            },
+                            {
+                                "name": "Mongolia",
+                                "char2code": "MN",
+                                "parent": 30
+                            },
+                            {
+                                "name": "Macao",
+                                "char2code": "MO",
+                                "parent": 30
+                            },
+                            {
+                                "name": "Taiwan, Province of China",
+                                "char2code": "TW",
+                                "parent": 30
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Southern Asia",
+                        "numericId": 34,
+                        "parent": 142,
+                        "countries": [
+                            {
+                                "name": "Afghanistan",
+                                "char2code": "AF",
+                                "parent": 34
+                            },
+                            {
+                                "name": "Bangladesh",
+                                "char2code": "BD",
+                                "parent": 34
+                            },
+                            {
+                                "name": "Bhutan",
+                                "char2code": "BT",
+                                "parent": 34
+                            },
+                            {
+                                "name": "India",
+                                "char2code": "IN",
+                                "parent": 34
+                            },
+                            {
+                                "name": "Iran, Islamic Republic of",
+                                "char2code": "IR",
+                                "parent": 34
+                            },
+                            {
+                                "name": "Sri Lanka",
+                                "char2code": "LK",
+                                "parent": 34
+                            },
+                            {
+                                "name": "Maldives",
+                                "char2code": "MV",
+                                "parent": 34
+                            },
+                            {
+                                "name": "Nepal",
+                                "char2code": "NP",
+                                "parent": 34
+                            },
+                            {
+                                "name": "Pakistan",
+                                "char2code": "PK",
+                                "parent": 34
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South-Eastern Asia",
+                        "numericId": 35,
+                        "parent": 142,
+                        "countries": [
+                            {
+                                "name": "Brunei Darussalam",
+                                "char2code": "BN",
+                                "parent": 35
+                            },
+                            {
+                                "name": "Indonesia",
+                                "char2code": "ID",
+                                "parent": 35
+                            },
+                            {
+                                "name": "Cambodia",
+                                "char2code": "KH",
+                                "parent": 35
+                            },
+                            {
+                                "name": "Lao People's Democratic Republic",
+                                "char2code": "LA",
+                                "parent": 35
+                            },
+                            {
+                                "name": "Myanmar",
+                                "char2code": "MM",
+                                "parent": 35
+                            },
+                            {
+                                "name": "Burma",
+                                "char2code": "BU",
+                                "parent": 35
+                            },
+                            {
+                                "name": "Malaysia",
+                                "char2code": "MY",
+                                "parent": 35
+                            },
+                            {
+                                "name": "Philippines",
+                                "char2code": "PH",
+                                "parent": 35
+                            },
+                            {
+                                "name": "Singapore",
+                                "char2code": "SG",
+                                "parent": 35
+                            },
+                            {
+                                "name": "Thailand",
+                                "char2code": "TH",
+                                "parent": 35
+                            },
+                            {
+                                "name": "Timor-Leste",
+                                "char2code": "TL",
+                                "parent": 35
+                            },
+                            {
+                                "name": "East Timor",
+                                "char2code": "TP",
+                                "parent": 35
+                            },
+                            {
+                                "name": "Viet Nam",
+                                "char2code": "VN",
+                                "parent": 35
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Western Asia",
+                        "numericId": 145,
+                        "parent": 142,
+                        "countries": [
+                            {
+                                "name": "United Arab Emirates",
+                                "char2code": "AE",
+                                "parent": 145
+                            },
+                            {
+                                "name": "Armenia",
+                                "char2code": "AM",
+                                "parent": 145
+                            },
+                            {
+                                "name": "Azerbaijan",
+                                "char2code": "AZ",
+                                "parent": 145
+                            },
+                            {
+                                "name": "Bahrain",
+                                "char2code": "BH",
+                                "parent": 145
+                            },
+                            {
+                                "name": "Cyprus",
+                                "char2code": "CY",
+                                "parent": 145
+                            },
+                            {
+                                "name": "Georgia",
+                                "char2code": "GE",
+                                "parent": 145
+                            },
+                            {
+                                "name": "Israel",
+                                "char2code": "IL",
+                                "parent": 145
+                            },
+                            {
+                                "name": "Iraq",
+                                "char2code": "IQ",
+                                "parent": 145
+                            },
+                            {
+                                "name": "Jordan",
+                                "char2code": "JO",
+                                "parent": 145
+                            },
+                            {
+                                "name": "Kuwait",
+                                "char2code": "KW",
+                                "parent": 145
+                            },
+                            {
+                                "name": "Lebanon",
+                                "char2code": "LB",
+                                "parent": 145
+                            },
+                            {
+                                "name": "Oman",
+                                "char2code": "OM",
+                                "parent": 145
+                            },
+                            {
+                                "name": "Palestine, State of",
+                                "char2code": "PS",
+                                "parent": 145
+                            },
+                            {
+                                "name": "Qatar",
+                                "char2code": "QA",
+                                "parent": 145
+                            },
+                            {
+                                "name": "Saudi Arabia",
+                                "char2code": "SA",
+                                "parent": 145
+                            },
+                            {
+                                "name": "Neutral Zone",
+                                "char2code": "NT",
+                                "parent": 145
+                            },
+                            {
+                                "name": "Syrian Arab Republic",
+                                "char2code": "SY",
+                                "parent": 145
+                            },
+                            {
+                                "name": "Turkey",
+                                "char2code": "TR",
+                                "parent": 145
+                            },
+                            {
+                                "name": "Yemen",
+                                "char2code": "YE",
+                                "parent": 145
+                            },
+                            {
+                                "name": "Chad",
+                                "char2code": "TD",
+                                "parent": 145
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Oceania",
+                "numericId": 9,
+                "subRegions": [
+                    {
+                        "name": "Australia and New Zealand",
+                        "numericId": 53,
+                        "parent": 9,
+                        "countries": [
+                            {
+                                "name": "Australia",
+                                "char2code": "AU",
+                                "parent": 53
+                            },
+                            {
+                                "name": "Norfolk Island",
+                                "char2code": "NF",
+                                "parent": 53
+                            },
+                            {
+                                "name": "New Zealand",
+                                "char2code": "NZ",
+                                "parent": 53
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Melanesia",
+                        "numericId": 54,
+                        "parent": 9,
+                        "countries": [
+                            {
+                                "name": "Fiji",
+                                "char2code": "FJ",
+                                "parent": 54
+                            },
+                            {
+                                "name": "New Caledonia",
+                                "char2code": "NC",
+                                "parent": 54
+                            },
+                            {
+                                "name": "Papua New Guinea",
+                                "char2code": "PG",
+                                "parent": 54
+                            },
+                            {
+                                "name": "Solomon Islands",
+                                "char2code": "SB",
+                                "parent": 54
+                            },
+                            {
+                                "name": "Vanuatu",
+                                "char2code": "VU",
+                                "parent": 54
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Micronesia",
+                        "numericId": 57,
+                        "parent": 9,
+                        "countries": [
+                            {
+                                "name": "Micronesia, Federated States of",
+                                "char2code": "FM",
+                                "parent": 57
+                            },
+                            {
+                                "name": "Guam",
+                                "char2code": "GU",
+                                "parent": 57
+                            },
+                            {
+                                "name": "Kiribati",
+                                "char2code": "KI",
+                                "parent": 57
+                            },
+                            {
+                                "name": "Marshall Islands",
+                                "char2code": "MH",
+                                "parent": 57
+                            },
+                            {
+                                "name": "Northern Mariana Islands",
+                                "char2code": "MP",
+                                "parent": 57
+                            },
+                            {
+                                "name": "Nauru",
+                                "char2code": "NR",
+                                "parent": 57
+                            },
+                            {
+                                "name": "Palau",
+                                "char2code": "PW",
+                                "parent": 57
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Polynesia",
+                        "numericId": 61,
+                        "parent": 9,
+                        "countries": [
+                            {
+                                "name": "American Samoa",
+                                "char2code": "AS",
+                                "parent": 61
+                            },
+                            {
+                                "name": "Cook Islands",
+                                "char2code": "CK",
+                                "parent": 61
+                            },
+                            {
+                                "name": "Niue",
+                                "char2code": "NU",
+                                "parent": 61
+                            },
+                            {
+                                "name": "French Polynesia",
+                                "char2code": "PF",
+                                "parent": 61
+                            },
+                            {
+                                "name": "Pitcairn",
+                                "char2code": "PN",
+                                "parent": 61
+                            },
+                            {
+                                "name": "Tokelau",
+                                "char2code": "TK",
+                                "parent": 61
+                            },
+                            {
+                                "name": "Tonga",
+                                "char2code": "TO",
+                                "parent": 61
+                            },
+                            {
+                                "name": "Tuvalu",
+                                "char2code": "TV",
+                                "parent": 61
+                            },
+                            {
+                                "name": "Wallis and Futuna",
+                                "char2code": "WF",
+                                "parent": 61
+                            },
+                            {
+                                "name": "Samoa",
+                                "char2code": "WS",
+                                "parent": 61
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
