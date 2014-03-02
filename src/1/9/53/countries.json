@@ -1,5 +1,14 @@
 [
 	{
-		"char2code":""
+		"name":"Australia",
+		"char2code":"AU"
+	},
+	{
+		"name":"Norfolk Island",
+		"char2code":"NF"
+	},
+	{
+		"name":"New Zealand",
+		"char2code":"NZ"
 	}
 ]

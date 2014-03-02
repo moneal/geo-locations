@@ -1,23 +1,30 @@
 [
 	{
+		"name":"Algeria",
 		"char2code":"DZ"
 	},
 	{
+		"name":"Egypt",
 		"char2code":"EG"
 	},
 	{
+		"name":"Western Sahara",
 		"char2code":"EH"
 	},
 	{
+		"name":"Libya",
 		"char2code":"LY"
 	},
 	{
+		"name":"Morocco",
 		"char2code":"MA"
 	},
 	{
+		"name":"Sudan",
 		"char2code":"SD"
 	},
 	{
+		"name":"Tunisia",
 		"char2code":"TN"
 	}
 ]

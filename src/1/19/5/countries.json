@@ -1,5 +1,58 @@
 [
 	{
-		"char2code":""
+		"name":"Argentina",
+		"char2code":"AR"
+	},
+	{
+		"name":"Bolivia, Plurinational State of",
+		"char2code":"BO"
+	},
+	{
+		"name":"Brazil",
+		"char2code":"BR"
+	},
+	{
+		"name":"Chile",
+		"char2code":"CL"
+	},
+	{
+		"name":"Colombia",
+		"char2code":"CO"
+	},
+	{
+		"name":"Ecuador",
+		"char2code":"EC"
+	},
+	{
+		"name":"Falkland Islands (Malvinas)",
+		"char2code":"FK"
+	},
+	{
+		"name":"French Guiana",
+		"char2code":"GF"
+	},
+	{
+		"name":"Guyana",
+		"char2code":"GY"
+	},
+	{
+		"name":"Peru",
+		"char2code":"PE"
+	},
+	{
+		"name":"Paraguay",
+		"char2code":"PY"
+	},
+	{
+		"name":"Suriname",
+		"char2code":"SR"
+	},
+	{
+		"name":"Uruguay",
+		"char2code":"UY"
+	},
+	{
+		"name":"Venezuela, Bolivarian Republic of",
+		"char2code":"VE"
 	}
 ]

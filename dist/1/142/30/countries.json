@@ -1,5 +1,34 @@
 [
 	{
-		"char2code":""
+		"name":"China",
+		"char2code":"CN"
+	},
+	{
+		"name":"Hong Kong",
+		"char2code":"HK"
+	},
+	{
+		"name":"Japan",
+		"char2code":"JP"
+	},
+	{
+		"name":"Korea, Democratic People's Republic of",
+		"char2code":"KP"
+	},
+	{
+		"name":"Korea, Republic of",
+		"char2code":"KR"
+	},
+	{
+		"name":"Mongolia",
+		"char2code":"MN"
+	},
+	{
+		"name":"Macao",
+		"char2code":"MO"
+	},
+	{
+		"name":"Taiwan, Province of China",
+		"char2code":"TW"
 	}
 ]

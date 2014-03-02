@@ -1,53 +1,70 @@
 [
 	{
+		"name":"",
 		"char2code":"BF"
 	},
 	{
+		"name":"Benin",
 		"char2code":"BJ"
 	},
 	{
+		"name":"Côte d'Ivoire",
 		"char2code":"CI"
 	},
 	{
+		"name":"Cape Verde",
 		"char2code":"CV"
 	},
 	{
+		"name":"Ghana",
 		"char2code":"GH"
 	},
 	{
+		"name":"Gambia",
 		"char2code":"GM"
 	},
 	{
+		"name":"Guinea",
 		"char2code":"GN"
 	},
 	{
+		"name":"Guinea-Bissau",
 		"char2code":"GW"
 	},
 	{
+		"name":"Liberia",
 		"char2code":"LR"
 	},
 	{
+		"name":"Mali",
 		"char2code":"ML"
 	},
 	{
+		"name":"Mauritania",
 		"char2code":"MR"
 	},
 	{
+		"name":"Niger",
 		"char2code":"NE"
 	},
 	{
+		"name":"Nigeria",
 		"char2code":"NG"
 	},
 	{
+		"name":"Saint Helena, Ascension and Tristan da Cunha",
 		"char2code":"SH"
 	},
 	{
+		"name":"Sierra Leone",
 		"char2code":"SL"
 	},
 	{
+		"name":"Senegal",
 		"char2code":"SN"
 	},
 	{
+		"name":"Togo",
 		"char2code":"TG"
 	}
 ]

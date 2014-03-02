@@ -1,5 +1,22 @@
 [
 	{
-		"char2code":""
+		"name":"Botswana",
+		"char2code":"BW"
+	},
+	{
+		"name":"Lesotho",
+		"char2code":"LS"
+	},
+	{
+		"name":"Namibia",
+		"char2code":"NA"
+	},
+	{
+		"name":"Swaziland",
+		"char2code":"SZ"
+	},
+	{
+		"name":"South Africa",
+		"char2code":"ZA"
 	}
 ]

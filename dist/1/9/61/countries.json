@@ -1,5 +1,42 @@
 [
 	{
-		"char2code":""
+		"name":"American Samoa",
+		"char2code":"AS"
+	},
+	{
+		"name":"Cook Islands",
+		"char2code":"CK"
+	},
+	{
+		"name":"Niue",
+		"char2code":"NU"
+	},
+	{
+		"name":"French Polynesia",
+		"char2code":"PF"
+	},
+	{
+		"name":"Pitcairn",
+		"char2code":"PN"
+	},
+	{
+		"name":"Tokelau",
+		"char2code":"TK"
+	},
+	{
+		"name":"Tonga",
+		"char2code":"TO"
+	},
+	{
+		"name":"Tuvalu",
+		"char2code":"TV"
+	},
+	{
+		"name":"Wallis and Futuna",
+		"char2code":"WF"
+	},
+	{
+		"name":"Samoa",
+		"char2code":"WS"
 	}
 ]

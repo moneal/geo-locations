@@ -1,5 +1,30 @@
 [
 	{
-		"char2code":""
+		"name":"Micronesia, Federated States of",
+		"char2code":"FM"
+	},
+	{
+		"name":"Guam",
+		"char2code":"GU"
+	},
+	{
+		"name":"Kiribati",
+		"char2code":"KI"
+	},
+	{
+		"name":"Marshall Islands",
+		"char2code":"MH"
+	},
+	{
+		"name":"Northern Mariana Islands",
+		"char2code":"MP"
+	},
+	{
+		"name":"Nauru",
+		"char2code":"NR"
+	},
+	{
+		"name":"Palau",
+		"char2code":"PW"
 	}
 ]

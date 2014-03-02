@@ -1,5 +1,106 @@
 [
 	{
-		"char2code":""
+		"name":"Antigua and Barbuda",
+		"char2code":"AG"
+	},
+	{
+		"name":"Anguilla",
+		"char2code":"AI"
+	},
+	{
+		"name":"Netherlands Antilles",
+		"char2code":"AN"
+	},
+	{
+		"name":"Aruba",
+		"char2code":"AW"
+	},
+	{
+		"name":"Barbados",
+		"char2code":"BB"
+	},
+	{
+		"name":"Saint Barthélemy",
+		"char2code":"BL"
+	},
+	{
+		"name":"Bahamas",
+		"char2code":"BS"
+	},
+	{
+		"name":"Cuba",
+		"char2code":"CU"
+	},
+	{
+		"name":"Dominica",
+		"char2code":"DM"
+	},
+	{
+		"name":"Dominican Republic",
+		"char2code":"DO"
+	},
+	{
+		"name":"Grenada",
+		"char2code":"GD"
+	},
+	{
+		"name":"Guadeloupe",
+		"char2code":"GP"
+	},
+	{
+		"name":"Haiti",
+		"char2code":"HT"
+	},
+	{
+		"name":"Jamaica",
+		"char2code":"JM"
+	},
+	{
+		"name":"Saint Kitts and Nevis",
+		"char2code":"KN"
+	},
+	{
+		"name":"Cayman Islands",
+		"char2code":"KY"
+	},
+	{
+		"name":"Saint Lucia",
+		"char2code":"LC"
+	},
+	{
+		"name":"Saint Martin (French part)",
+		"char2code":"MF"
+	},
+	{
+		"name":"Martinique",
+		"char2code":"MQ"
+	},
+	{
+		"name":"Montserrat",
+		"char2code":"MS"
+	},
+	{
+		"name":"Puerto Rico",
+		"char2code":"PR"
+	},
+	{
+		"name":"Turks and Caicos Islands",
+		"char2code":"TC"
+	},
+	{
+		"name":"Trinidad and Tobago",
+		"char2code":"TT"
+	},
+	{
+		"name":"Saint Vincent and the Grenadines",
+		"char2code":"VC"
+	},
+	{
+		"name":"Virgin Islands, British",
+		"char2code":"VG"
+	},
+	{
+		"name":"Virgin Islands, U.S.",
+		"char2code":"VI"
 	}
 ]

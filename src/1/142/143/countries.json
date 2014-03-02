@@ -1,5 +1,22 @@
 [
 	{
-		"char2code":""
+		"name":"Turkmenistan",
+		"char2code":"TM"
+	},
+	{
+		"name":"Tajikistan",
+		"char2code":"TJ"
+	},
+	{
+		"name":"Kyrgyzstan",
+		"char2code":"KG"
+	},
+	{
+		"name":"Kazakhstan",
+		"char2code":"KZ"
+	},
+	{
+		"name":"Uzbekistan",
+		"char2code":"UZ"
 	}
 ]

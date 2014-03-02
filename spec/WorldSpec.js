@@ -10,7 +10,7 @@ function countriesTest( fileBase ) {
 
 	describe('countries.json', function() {
 		var data = require( jsonFile );
-		console.log(data);
+		//console.log(data);
 		it('is an array', function() {
 			expect( typeof data ).toBe('object');
 		});
@@ -20,15 +20,15 @@ function countriesTest( fileBase ) {
 		});
 
 
-		xdescribe('each country', function() {
+		describe('each country', function() {
 
 			var count = 1;
 
 			data.forEach( function( item ) {
 
-				describe('Sub Regions: ' + count + ' (' + item.name + ')', function() {
+				describe('Country: ' + count + ' (' + item.name + ')', function() {
 
-					var subRegionBase = '';
+					var CountryBase = '';
 					it('is an object', function() {
 						expect( typeof item ).toBe('object');
 					});
@@ -37,7 +37,15 @@ function countriesTest( fileBase ) {
 						expect( item.name ).toBeDefined();
 					});
 
-					it('has a numericId', function() {
+					it('has char2code', function() {
+						//expect( item.char2code ).toBeDefined();
+						expect( typeof item.char2code ).toBe('string');
+						expect( item.char2code ).not.toBe( null );
+						expect( item.char2code ).not.toBe( '' );
+					});
+
+
+					xit('has a numericId', function() {
 						expect( item.numericId ).toBeDefined();
 					});
 
@@ -45,16 +53,16 @@ function countriesTest( fileBase ) {
 						expect( item.parent ).toBeDefined();
 					});
 
-					it('has a sub folder', function() {
-						subRegionBase = fileBase + '/' + item.numericId;
+					xit('has a sub folder', function() {
+						CountryBase = fileBase + '/' + item.numericId;
 						//console.log( subRegionBase );
-						expect( fs.existsSync( subRegionBase ) ).toBe(true);
-						if ( ! fs.existsSync( subRegionBase ) ) {
-							fs.mkdirSync( subRegionBase );
+						expect( fs.existsSync( CountryBase ) ).toBe(true);
+						if ( ! fs.existsSync( CountryBase ) ) {
+							fs.mkdirSync( CountryBase );
 						}
 					});
 
-					it('has countries file', function() {
+					xit('has countries file', function() {
 						
 						expect( fs.existsSync( fileBase + '/' + item.numericId + '/' + 'countries.json' ) ).toBe(true);
 						if ( ! fs.existsSync( fileBase + '/' + item.numericId + '/' + 'countries.json' ) ) {
@@ -62,7 +70,7 @@ function countriesTest( fileBase ) {
 						}
 					});
 	
-					countriesTest( fileBase + '/' + item.numericId );
+					//countriesTest( fileBase + '/' + item.numericId );
 				});
 
 				count++;
@@ -96,7 +104,7 @@ function subRegionTest( fileBase ) {
 
 			data.forEach( function( item ) {
 
-				describe('Sub Regions: ' + count + ' (' + item.name + ')', function() {
+				describe('Sub Regions: ' + count + ' (' + item.name + ', ID:' + item.numericId + ')', function() {
 
 					var subRegionBase = '';
 					it('is an object', function() {
@@ -167,7 +175,7 @@ function regionTest( fileBase ) {
 
 			data.forEach( function( item ) {
 
-				describe('Regions: ' + count + ' (' + item.name + ')', function() {
+				describe('Regions: ' + count + ' (' + item.name + ', ID: ' + item.numericId + ')', function() {
 					var subRegionBase = '';
 					it('is an object', function() {
 						expect( typeof item ).toBe('object');
@@ -226,7 +234,7 @@ describe('worlds.json', function() {
 
 		data.forEach( function( item ) {
 
-			describe('World: ' + count + ' (' + item.name + ')', function() {
+			describe('World: ' + count + ' (' + item.name + ', ID: ' + item.numericId + ')', function() {
 				it('is an object', function() {
 					expect( typeof item ).toBe('object');
 				});

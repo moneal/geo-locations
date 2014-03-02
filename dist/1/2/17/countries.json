@@ -1,5 +1,42 @@
 [
 	{
-		"char2code":""
+		"name":"Angola",
+		"char2code":"AO"
+	},
+	{
+		"name":"Congo, the Democratic Republic of the",
+		"char2code":"CD"
+	},
+	{
+		"name":"Zaire",
+		"char2code":"ZR"
+	},
+	{
+		"name":"Central African Republic",
+		"char2code":"CF"
+	},
+	{
+		"name":"Congo",
+		"char2code":"CG"
+	},
+	{
+		"name":"Cameroon",
+		"char2code":"CM"
+	},
+	{
+		"name":"Gabon",
+		"char2code":"GA"
+	},
+	{
+		"name":"Equatorial Guinea",
+		"char2code":"GQ"
+	},
+	{
+		"name":"Sao Tome and Principe",
+		"char2code":"ST"
+	},
+	{
+		"name":"Chad",
+		"char2code":"TD"
 	}
 ]

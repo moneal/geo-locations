@@ -1,5 +1,34 @@
 [
 	{
-		"char2code":""
+		"name":"Belize",
+		"char2code":"BZ"
+	},
+	{
+		"name":"Costa Rica",
+		"char2code":"CR"
+	},
+	{
+		"name":"Guatemala",
+		"char2code":"GT"
+	},
+	{
+		"name":"Honduras",
+		"char2code":"HN"
+	},
+	{
+		"name":"Mexico",
+		"char2code":"MX"
+	},
+	{
+		"name":"Nicaragua",
+		"char2code":"NI"
+	},
+	{
+		"name":"Panama",
+		"char2code":"PA"
+	},
+	{
+		"name":"El Salvador",
+		"char2code":"SV"
 	}
 ]

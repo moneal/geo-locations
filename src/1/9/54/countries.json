@@ -1,5 +1,22 @@
 [
 	{
-		"char2code":""
+		"name":"Fiji",
+		"char2code":"FJ"
+	},
+	{
+		"name":"New Caledonia",
+		"char2code":"NC"
+	},
+	{
+		"name":"Papua New Guinea",
+		"char2code":"PG"
+	},
+	{
+		"name":"Solomon Islands",
+		"char2code":"SB"
+	},
+	{
+		"name":"Vanuatu",
+		"char2code":"VU"
 	}
 ]
