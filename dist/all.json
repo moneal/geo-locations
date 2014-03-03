@@ -598,6 +598,38 @@
                                 "parent": 5
                             }
                         ]
+                    },
+                    {
+                        "name": "North America",
+                        "numericId": 21,
+                        "parent": 19,
+                        "countries": [
+                            {
+                                "name": "Bermuda",
+                                "char2code": "BM",
+                                "parent": 21
+                            },
+                            {
+                                "name": "Canada",
+                                "char2code": "CA",
+                                "parent": 21
+                            },
+                            {
+                                "name": "Greenland",
+                                "char2code": "GL",
+                                "parent": 21
+                            },
+                            {
+                                "name": "Saint Pierre and Miquelon",
+                                "char2code": "PM",
+                                "parent": 21
+                            },
+                            {
+                                "name": "United States",
+                                "char2code": "US",
+                                "parent": 21
+                            }
+                        ]
                     }
                 ]
             },

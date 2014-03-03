@@ -1,0 +1,22 @@
+[
+	{
+		"name":"Bermuda",
+		"char2code":"BM"
+	},
+	{
+		"name":"Canada",
+		"char2code":"CA"
+	},
+	{
+		"name":"Greenland",
+		"char2code":"GL"
+	},
+	{
+		"name":"Saint Pierre and Miquelon",
+		"char2code":"PM"
+	},
+	{
+		"name":"United States",
+		"char2code":"US"
+	}
+]

@@ -13,5 +13,10 @@
 		"name": "South America",
 		"numericId": 5,
 		"parent": 19
+	},
+	{
+		"name": "North America",
+		"numericId": 21,
+		"parent": 19
 	}
 ]
